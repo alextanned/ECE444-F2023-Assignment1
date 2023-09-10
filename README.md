@@ -4,3 +4,6 @@
 
 ## Activity 3
 ![image](https://github.com/alextanned/ECE444-F2023-Assignment1/assets/74106760/e3a98ae5-d6c4-45bb-b35c-21ff21f534aa)
+
+## Activity 4
+![image](https://github.com/alextanned/ECE444-F2023-Assignment1/assets/74106760/18d29e19-867b-4d00-a5d6-559e97f2baea)
